@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan Alta Alvaro Valencia</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 💬 Ask me about **react, node, laravel, and more**
 
